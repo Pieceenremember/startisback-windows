@@ -18,11 +18,13 @@ StartIsBack · MoggyDay · 2.9 · v2.9.21
 
 MoggyDay keeps one stable URL for StartIsBack: EN / RU. StartIsBack on Windows 10/11 x64. 1 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Get it on the site:** [EN](https://moggydayprogram.com/en/programs/startisback) · [RU](https://moggydayprogram.com/programs/startisback)
+
 ## Download
 
 1. Open [StartIsBack EN](https://moggydayprogram.com/en/programs/startisback) or [StartIsBack RU](https://moggydayprogram.com/programs/startisback).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Use the download button on the live card. This GitHub page does not host the installer.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
